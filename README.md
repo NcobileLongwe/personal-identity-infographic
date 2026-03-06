@@ -5,8 +5,8 @@ Well my name is Ncobile  a lady who enjoys working with numbers and she has an i
 This repository has my Personal Identity in an Infographic Assignment.
 
 ## Contents of this repository
-My personal logomark
-Final infographic
+My personal logomark 
+ And Final infographic
 
 ## Design Approach
 My infographic explores who I am as a student and professional and how I visually represent myself through shape and colour.
